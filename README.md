@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a flutter software engineer in São Paulo, Brazil 🌆
+I'm a flutter software engineer at [Picnic](https://picnic.zone/) working from São Paulo, Brazil 🌆
 
 
 <div align="left">
