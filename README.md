@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a flutter software engineer working from São Paulo, Brazil 🌆
+I'm a flutter software engineer working at [Superformula](https://superformula.com) from São Paulo, Brazil 🌆
 
 
 <div align="left">
